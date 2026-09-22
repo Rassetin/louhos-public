@@ -9,11 +9,7 @@
 | <img src="assets/equipment.svg" width="36" height="36" alt=""> | **Equipment**<br>Kokoa kalusto samaan näkymään. | [Avaa →](https://rasse2009.fi/louhos/equipment/)<br>[Käyttöohjeet](https://rasse2009.fi/louhos/equipment/documentation/) |
 | <img src="assets/stage.svg" width="36" height="36" alt=""> | **Stage**<br>Lavakello-ohjelmisto. | [Avaa →](https://rasse2009.fi/louhos/stage/)<br>[Käyttöohjeet](https://rasse2009.fi/louhos/stage/documentation/) |
 | <img src="assets/mobile.svg" width="36" height="36" alt=""> | **Mobile**<br>Louhoksen mobiilikäyttöliittymä. | [Avaa →](https://rasse2009.fi/louhos/mobile-v2/) |
-
-### Rajattu käyttö
-
-**File Transfer** — Jaa tiedostoja linkillä. Järjestä ne projekteihin ja kansioihin, aseta linkille voimassaolo ja salasana sekä hallitse latauksia, esikatselua ja kommentointia. Käyttö edellyttää ylläpitäjän myöntämää oikeutta.
-
+| <img src="assets/FileTransfer.svg" width="36" height="36" alt=""> | **File Transfer**<br>Tiedostojen jakaminen linkillä. | |
 ### Tulossa
 
 | Alusta | Kuvaus |
