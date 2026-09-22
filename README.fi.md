@@ -17,7 +17,7 @@ Louhos on kokoelma esinäisiä selainpohjaisia työkaluja esimerkiksi cuelistoje
 
 ### Tulossa
 
-| Alusta | Kuvaus |
+|  | Kuvaus |
 | --- | --- |
 | **Plan** | Tilojen, laitteiden ja niiden välisten yhteyksien suunnittelu. |
 | **Vision** | Vedosten ja visuaalisen materiaalin tarkastelu. |
