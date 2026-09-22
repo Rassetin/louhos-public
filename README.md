@@ -1,10 +1,8 @@
 # Louhos
 
-Louhos on yksityisesti ylläpidetty tuotantotyökalujen kokonaisuus. Se on käytössä osoitteessa [rasse2009.fi/louhos](https://rasse2009.fi/louhos/).
+Louhos kokoaa live-tuotannon työkalut osoitteeseen [rasse2009.fi/louhos](https://rasse2009.fi/louhos/).
 
-Tämä repository ei ole asennettava sovellus eikä sisällä tuotantolähdekoodia. Sen tarkoitus on pitää julkisesti nähtävissä, mitä Louhos sisältää tällä hetkellä.
-
-## Toteutetut työkalut
+## Työkalut
 
 | Työkalu | Mitä se tekee | Sivusto |
 | --- | --- | --- |
@@ -18,14 +16,3 @@ Tämä repository ei ole asennettava sovellus eikä sisällä tuotantolähdekood
 | **Show** | Kokoaa live-esityksen tärkeät tiedot ja ohjauksen tuotannon yhteiseen näkymään. | [Avaa Show](https://rasse2009.fi/louhos/show/) |
 | **Vision** | Tuotannon vedosten ja visuaalisen materiaalin tarkastelu. | [Avaa Vision](https://rasse2009.fi/louhos/vision/) |
 | **Comms** | Tuotannon puheyhteys kanaville ja tiimille. | [Avaa Comms](https://rasse2009.fi/louhos/comms/) |
-
-## Julkinen repository
-
-Louhos on tällä hetkellä suljettu projekti. Täällä ei julkaista:
-
-- tuotantoympäristön asetuksia, palvelin- tai vMix-osoitteita
-- käyttäjiä, projekteja, tiedostoja tai jakolinkkejä
-- API-avaimia, tunnuksia tai muuta käyttöoikeuksiin liittyvää tietoa
-- palvelin- ja hallintapaneelikoodia
-
-Jos Louhoksesta julkaistaan myöhemmin ladattava komponentti, dokumentaatio tai avoin integraatio, se lisätään tähän repositoryyn erillisenä ja käyttöohjeineen.
