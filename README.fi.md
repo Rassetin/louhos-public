@@ -23,3 +23,6 @@ Louhos on kokoelma esinäisiä selainpohjaisia työkaluja esimerkiksi cuelistoje
 | **Vision** | Vedosten ja visuaalisen materiaalin tarkastelu. |
 | **Comms** | Intercom-järjestelmä, joka toimii langattomasti internetin välityksellä. |
 | **Show** | Diojen, median ja näyttöjen ohjaus. |
+
+> [!NOTE]
+> Huomimoithan, että kaikki alustat eivät välttämättä ole saatavilla kaikille käyttäjille.
