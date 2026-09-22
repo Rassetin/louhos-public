@@ -17,7 +17,7 @@ Louhos is a collection of browser-based tools for cue lists, camera switching, s
 
 ### Coming soon
 
-| Platform | Description |
+|  | Description |
 | --- | --- |
 | **Plan** | Plan spaces, devices and their connections. |
 | **Vision** | Review drafts and visual material. |
