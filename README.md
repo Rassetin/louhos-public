@@ -15,6 +15,9 @@ Louhos is a collection of browser-based tools for cue lists, camera switching, s
 | <img src="assets/mobile.svg" width="36" height="36" alt=""> | **Mobile**<br>The mobile interface for Louhos. | [Open →](https://rasse2009.fi/louhos/mobile-v2/) |
 | <img src="assets/FileTransfer.svg" width="36" height="36" alt=""> | **File Transfer**<br>Share files with a link. | |
 
+> [!NOTE]
+> Please note that all platdorms may not be available to all users.
+
 ### Coming soon
 
 |  | Description |
@@ -24,8 +27,16 @@ Louhos is a collection of browser-based tools for cue lists, camera switching, s
 | **Comms** | Wireless intercom over the internet. |
 | **Show** | Control slides, media and displays. |
 
-> [!NOTE]
-> Please note that all platdorms may not be available to all users.
+
+### Louhos Account Types
+
+| Feature | Louhos Basic | Louhos Pro |
+| --- | --- | --- |
+| **Price** | Free | Coming soon |
+| **Number of workspaces** | 1 | ∞ |
+| **Advanced collaboration and management features** | – | ✓ |
+| **Louhos Cloud** | – | ✓ |
+| **Storage per production** | Basic | More |
 
 > [!WARNING]
 > Not all platforms support English yet. We’ll add English language support later.
