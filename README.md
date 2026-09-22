@@ -23,3 +23,9 @@ Louhos is a collection of browser-based tools for cue lists, camera switching, s
 | **Vision** | Review drafts and visual material. |
 | **Comms** | Wireless intercom over the internet. |
 | **Show** | Control slides, media and displays. |
+
+> [!NOTE]
+> Please note that all platdorms may not be available to all users.
+
+> [!WARNING]
+> Not all platforms support English yet. We’ll add English language support later.
