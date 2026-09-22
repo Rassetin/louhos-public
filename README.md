@@ -1,20 +1,23 @@
 # Louhos
 
+**English** · [Suomi](README.fi.md)
+
 [rasse2009.fi/louhos →](https://rasse2009.fi/louhos/)
 
-| | Alusta | |
+| | Platform | |
 | :---: | :--- | :--- |
-| <img src="assets/cue.svg" width="36" height="36" alt=""> | **Cue**<br>Rakenna ja aja cue-listoja. Lähetä MIDI-, OSC- ja HTTP-toimintoja cueista tai omista painikkeista. | [Avaa →](https://rasse2009.fi/louhos/cue/)<br>[Käyttöohjeet](https://rasse2009.fi/louhos/cue/documentation/) |
-| <img src="assets/interval.svg" width="36" height="36" alt=""> | **Interval**<br>Seuraa vMixin Program- ja Preview-inputteja sekä kameranvaihtojen kestoa. Valitse seurattavat inputit, nimeä ne ja jaa ne välilehdille. | [Avaa →](https://rasse2009.fi/louhos/interval/)<br>[Käyttöohjeet](https://rasse2009.fi/louhos/interval/documentation/) |
-| <img src="assets/equipment.svg" width="36" height="36" alt=""> | **Equipment**<br>Kokoa kalusto samaan näkymään. | [Avaa →](https://rasse2009.fi/louhos/equipment/)<br>[Käyttöohjeet](https://rasse2009.fi/louhos/equipment/documentation/) |
-| <img src="assets/stage.svg" width="36" height="36" alt=""> | **Stage**<br>Lavakello-ohjelmisto. | [Avaa →](https://rasse2009.fi/louhos/stage/)<br>[Käyttöohjeet](https://rasse2009.fi/louhos/stage/documentation/) |
-| <img src="assets/mobile.svg" width="36" height="36" alt=""> | **Mobile**<br>Louhoksen mobiilikäyttöliittymä. | [Avaa →](https://rasse2009.fi/louhos/mobile-v2/) |
-| <img src="assets/FileTransfer.svg" width="36" height="36" alt=""> | **File Transfer**<br>Tiedostojen jakaminen linkillä. | |
-### Tulossa
+| <img src="assets/cue.svg" width="36" height="36" alt=""> | **Cue**<br>Build and run cue lists. Send MIDI, OSC and HTTP actions from cues or custom buttons. | [Open →](https://rasse2009.fi/louhos/cue/)<br>[Guide (FI)](https://rasse2009.fi/louhos/cue/documentation/) |
+| <img src="assets/interval.svg" width="36" height="36" alt=""> | **Interval**<br>Monitor vMix Program and Preview inputs and track time on air. Choose which inputs to track, rename them and organize them into tabs. | [Open →](https://rasse2009.fi/louhos/interval/)<br>[Guide (FI)](https://rasse2009.fi/louhos/interval/documentation/) |
+| <img src="assets/equipment.svg" width="36" height="36" alt=""> | **Equipment**<br>Keep track of your equipment in one place. | [Open →](https://rasse2009.fi/louhos/equipment/)<br>[Guide (FI)](https://rasse2009.fi/louhos/equipment/documentation/) |
+| <img src="assets/stage.svg" width="36" height="36" alt=""> | **Stage**<br>Stage timer software. | [Open →](https://rasse2009.fi/louhos/stage/)<br>[Guide (FI)](https://rasse2009.fi/louhos/stage/documentation/) |
+| <img src="assets/mobile.svg" width="36" height="36" alt=""> | **Mobile**<br>The mobile interface for Louhos. | [Open →](https://rasse2009.fi/louhos/mobile-v2/) |
+| <img src="assets/FileTransfer.svg" width="36" height="36" alt=""> | **File Transfer**<br>Share files with a link. | |
 
-| Alusta | Kuvaus |
+### Coming soon
+
+| Platform | Description |
 | --- | --- |
-| **Plan** | Tilojen, laitteiden ja niiden välisten yhteyksien suunnittelu. |
-| **Vision** | Vedosten ja visuaalisen materiaalin tarkastelu. |
-| **Comms** | Intercom-järjestelmä, joka toimii langattomasti internetin välityksellä. |
-| **Show** | Diojen, median ja näyttöjen ohjaus. |
+| **Plan** | Plan spaces, devices and their connections. |
+| **Vision** | Review drafts and visual material. |
+| **Comms** | Wireless intercom over the internet. |
+| **Show** | Control slides, media and displays. |
