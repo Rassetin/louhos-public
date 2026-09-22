@@ -39,4 +39,4 @@ Louhos is a collection of browser-based tools for cue lists, camera switching, s
 | **Storage per production** | Basic | More |
 
 > [!WARNING]
-> Not all platforms support English yet. We’ll add English language support later.
+> Not all platforms support English yet. We’ll add comprehensive English support later.
