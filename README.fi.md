@@ -2,6 +2,8 @@
 
 [English](README.md) · **Suomi**
 
+Louhos on kokoelma selainpohjaisia työkaluja cuelistojen ajamiseen, kameranvaihtojen seurantaan, lavakelloihin, kalustonhallintaan ja tiedostojen jakamiseen.
+
 [rasse2009.fi/louhos →](https://rasse2009.fi/louhos/)
 
 | | Alusta | |

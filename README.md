@@ -2,6 +2,8 @@
 
 **English** · [Suomi](README.fi.md)
 
+Louhos is a collection of browser-based tools for cue lists, camera switching, stage timers, equipment management and file sharing.
+
 [rasse2009.fi/louhos →](https://rasse2009.fi/louhos/)
 
 | | Platform | |
