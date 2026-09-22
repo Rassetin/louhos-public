@@ -2,7 +2,7 @@
 
 [English](README.md) · **Suomi**
 
-Louhos on kokoelma esinäisiä selainpohjaisia työkaluja esimerkiksi cuelistojen ajamiseen, kameranvaihtojen seurantaan, lavakelloihin, kalustonhallintaan ja tiedostojen jakamiseen.
+Louhos on kokoelma erinäisiä selainpohjaisia työkaluja esimerkiksi cuelistojen ajamiseen, kameranvaihtojen seurantaan, lavakelloihin, kalustonhallintaan ja tiedostojen jakamiseen.
 
 [rasse2009.fi/louhos →](https://rasse2009.fi/louhos/)
 
@@ -15,6 +15,9 @@ Louhos on kokoelma esinäisiä selainpohjaisia työkaluja esimerkiksi cuelistoje
 | <img src="assets/mobile.svg" width="36" height="36" alt=""> | **Mobile**<br>Louhoksen mobiilikäyttöliittymä. | [Avaa →](https://rasse2009.fi/louhos/mobile-v2/) |
 | <img src="assets/FileTransfer.svg" width="36" height="36" alt=""> | **File Transfer**<br>Tiedostojen jakaminen linkillä. | |
 
+> [!NOTE]
+> Huomimoithan, että kaikki alustat eivät välttämättä ole saatavilla kaikille käyttäjille.
+
 ### Tulossa
 
 |  | Kuvaus |
@@ -24,5 +27,12 @@ Louhos on kokoelma esinäisiä selainpohjaisia työkaluja esimerkiksi cuelistoje
 | **Comms** | Intercom-järjestelmä, joka toimii langattomasti internetin välityksellä. |
 | **Show** | Diojen, median ja näyttöjen ohjaus. |
 
-> [!NOTE]
-> Huomimoithan, että kaikki alustat eivät välttämättä ole saatavilla kaikille käyttäjille.
+### Louhos-tilityypit
+
+| Ominaisuus | Louhos Basic | Louhos Pro |
+| --- | --- | --- |
+| **Hinta** | Maksuton | Tulossa pian |
+| **Työtilojen määrä** | 1 | ∞ |
+| **Laajemmat yhteistyö- ja hallintaominaisuudet** | – | ✓ |
+| **Louhos Cloud** | – | ✓ |
+| **Tuotantokohtainen tallennustila** | Perus | Enemmän |
