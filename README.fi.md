@@ -6,6 +6,8 @@ Louhos tarjoaa selainpohjaiset työkalut cue-listoille ja kameranvaihtojen seura
 
 [rasse2009.fi/louhos →](https://rasse2009.fi/louhos/)
 
+50 247 riviä HTML-, CSS-, JavaScript- ja PHP-lähdekoodia · päivitetty 3.10.2026. Riippuvuudet ja generoidut paketit eivät sisälly lukuun.
+
 | | Alusta | |
 | :---: | :--- | :--- |
 | <img src="assets/cue.svg" width="36" height="36" alt=""> | **Cue**<br>Rakenna ja aja cue-listoja. Lähetä MIDI-, OSC- ja HTTP-toimintoja cueista tai omista painikkeista. | [Avaa →](https://rasse2009.fi/louhos/cue/)<br>[Käyttöohjeet](https://rasse2009.fi/louhos/cue/documentation/) |

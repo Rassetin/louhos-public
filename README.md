@@ -6,6 +6,8 @@ Louhos provides browser-based tools for cue lists and camera switching.
 
 [rasse2009.fi/louhos →](https://rasse2009.fi/louhos/)
 
+50,247 lines of HTML, CSS, JavaScript and PHP source code · updated 3 October 2026. Dependencies and generated packages are excluded.
+
 | | Platform | |
 | :---: | :--- | :--- |
 | <img src="assets/cue.svg" width="36" height="36" alt=""> | **Cue**<br>Build and run cue lists. Send MIDI, OSC and HTTP actions from cues or custom buttons. | [Open →](https://rasse2009.fi/louhos/cue/)<br>[Guide (FI)](https://rasse2009.fi/louhos/cue/documentation/) |
