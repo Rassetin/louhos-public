@@ -6,7 +6,14 @@ Louhos tarjoaa selainpohjaiset työkalut cue-listoille ja kameranvaihtojen seura
 
 [rasse2009.fi/louhos →](https://rasse2009.fi/louhos/)
 
-50 247 riviä HTML-, CSS-, JavaScript- ja PHP-lähdekoodia · päivitetty 3.10.2026. Riippuvuudet ja generoidut paketit eivät sisälly lukuun.
+50 474 riviä HTML-, CSS-, JavaScript- ja PHP-lähdekoodia · päivitetty 3.10.2026. Riippuvuudet ja generoidut paketit eivät sisälly lukuun.
+
+### Louhos Connect ja Tools
+
+- [Louhos Connect](https://rasse2009.fi/louhos/companion/) yhdistää Cuen samalla koneella toimivaan Bitfocus Companioniin. Lataa moduuli ja seuraa käyttöönotto-ohjetta. Moduuli ei ole vielä Companionin moduuliluettelossa.
+- [Louhos Tools](https://rasse2009.fi/louhos/tools/) sisältää pieniä selainpohjaisia työkaluja.
+
+Yhteydenotto onnistuu [Louhoksen etusivun](https://rasse2009.fi/louhos/#tilityypit) Louhos Pro -osion **Ota yhteyttä** -linkistä.
 
 | | Alusta | |
 | :---: | :--- | :--- |

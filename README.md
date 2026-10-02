@@ -6,7 +6,14 @@ Louhos provides browser-based tools for cue lists and camera switching.
 
 [rasse2009.fi/louhos →](https://rasse2009.fi/louhos/)
 
-50,247 lines of HTML, CSS, JavaScript and PHP source code · updated 3 October 2026. Dependencies and generated packages are excluded.
+50,474 lines of HTML, CSS, JavaScript and PHP source code · updated 3 October 2026. Dependencies and generated packages are excluded.
+
+### Louhos Connect and Tools
+
+- [Louhos Connect](https://rasse2009.fi/louhos/companion/) connects Cue to Bitfocus Companion on the same computer. Download the module and follow the setup guide. It is not yet available in Companion’s module catalogue.
+- [Louhos Tools](https://rasse2009.fi/louhos/tools/) provides small browser-based utilities.
+
+For enquiries, use **Contact us** in the Louhos Pro section on the [Louhos website](https://rasse2009.fi/louhos/#tilityypit).
 
 | | Platform | |
 | :---: | :--- | :--- |
