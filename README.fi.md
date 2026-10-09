@@ -6,7 +6,15 @@ Louhos tarjoaa selainpohjaiset työkalut cue-listoille ja kameranvaihtojen seura
 
 [rasse2009.fi/louhos →](https://rasse2009.fi/louhos/)
 
-50 474 riviä HTML-, CSS-, JavaScript- ja PHP-lähdekoodia · päivitetty 3.10.2026. Riippuvuudet ja generoidut paketit eivät sisälly lukuun.
+Kehityspäivitys · 9.10.2026. Tämä repositorio sisältää julkisen esittelyn, ei sovelluksen lähdekoodia tai käyttäjätietoja.
+
+### Viimeisimmät kehitysmuutokset
+
+- **Cue: tuonti taulukosta.** Lataa taulukkopohja, täytä cueiden nimet, kuvaukset ja ryhmät ja tarkista tuonnin esikatselu ennen listalle lisäämistä.
+- **Interval: videon loppumislaskuri.** Asetuksista valittava vaihtoehto näyttää tuettujen videoinputtien vMixiltä saatavan jäljellä olevan ajan kameranvaihdon tavoiteajan sijaan. Toiminto tarvitsee saatavilla olevat videotiedot.
+- **Comms: intercom kehityksessä.** Push-to-talk, osallistujien äänimittarit, huoneiden hallinta, hyväksyntää vaativat kutsut, QR-linkit ja varahallinnoijat on toteutettu. Puhepalvelua ei ole vielä kytketty; oikea ääni ja palvelimen huonehallinta vaativat vielä kokonaisuuden testaamisen. Esikatselu ei aloita oikeaa puhelua.
+
+Nämä ovat kehitysmuutoksia. Saatavuus verkkoversiossa riippuu julkaisusta ja testauksesta.
 
 ### Louhos Connect ja Tools
 
@@ -26,7 +34,7 @@ Yhteydenotto onnistuu [Louhoksen etusivun](https://rasse2009.fi/louhos/#tilityyp
 | --- | --- |
 | **Plan** | Tilojen, laitteiden ja niiden välisten yhteyksien suunnittelu. |
 | **Vision** | Vedosten ja visuaalisen materiaalin tarkastelu. |
-| **Comms** | Intercom-järjestelmä, joka toimii langattomasti internetin välityksellä. |
+| **Comms** | Selainpohjainen intercom, jossa on push-to-talk ja yhteiset puhehuoneet. Kehityksessä; puhepalvelua ei ole vielä kytketty. |
 | **Show** | Diojen, median ja näyttöjen ohjaus. |
 
 ### Louhos-tilityypit
