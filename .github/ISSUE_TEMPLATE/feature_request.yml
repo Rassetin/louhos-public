@@ -1,0 +1,23 @@
+name: Feature request / Ominaisuusehdotus
+description: Suggest a useful change / Ehdota hyödyllistä muutosta
+title: "[Idea] "
+body:
+  - type: input
+    id: tool
+    attributes:
+      label: Tool / Työkalu
+    validations:
+      required: true
+  - type: textarea
+    id: need
+    attributes:
+      label: What are you trying to do? / Mitä yrität tehdä?
+      description: "No confidential production details. / Ei tuotannon luottamuksellisia tietoja."
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement / Ehdotettu parannus
+    validations:
+      required: true

@@ -2,51 +2,52 @@
 
 **English** · [Suomi](README.fi.md)
 
-Louhos provides browser-based tools for cue lists and camera switching.
+Browser-based tools for live productions: cue lists, camera timing and arena video preparation.
 
-[rasse2009.fi/louhos →](https://rasse2009.fi/louhos/)
+[Open Louhos →](https://rasse2009.fi/louhos/) · [Report a bug](https://github.com/Rassetin/louhos-public/issues/new?template=bug_report.yml) · [Suggest a feature](https://github.com/Rassetin/louhos-public/issues/new?template=feature_request.yml)
 
-Development update · 9 October 2026. This repository contains the public project overview, not application source code or user data.
+This is the public overview and feedback repository, not the application source code. It contains no server configuration or user data.
 
-### Latest development
+## Next release: Louhos Arena
 
-- **Cue: import from a table.** Download a spreadsheet template, fill in cue names, descriptions and groups, then review the import before adding cues to your list.
-- **Interval: video countdown.** An optional setting uses the remaining time reported by vMix for supported video inputs instead of the camera-switching target timer. Available timing data is required.
-- **Comms: intercom in development.** Push-to-talk, participant audio meters, room management, approval-based invitations, QR links and additional room managers have been implemented. The voice service has not yet been connected; live audio and server-side room management still need end-to-end testing. Opening the preview does not start a real call.
+<img src="assets/arena.svg" width="64" height="64" alt="Louhos Arena">
 
-These are development changes; availability on the live website depends on deployment and testing.
+Crop and split video for arena displays, then check the result in a 3D visualizer. Arena is in development and is the next planned Louhos release. No release date has been confirmed.
 
-### Louhos Connect and Tools
+- Display layouts and reusable display profiles.
+- Source cropping, aspect-ratio presets and explicit export dimensions.
+- Local video export with format, codec and frame-rate options. Codec support depends on the browser.
+- Curved display ribbons and separate screens, including their own videos.
+- Custom arenas, XYZ screen controls and WASD navigation.
+- Fullscreen visualizer, with or without editing controls.
 
-- [Louhos Connect](https://rasse2009.fi/louhos/companion/) connects Cue to Bitfocus Companion on the same computer. Download the module and follow the setup guide. It is not yet available in Companion’s module catalogue.
-- [Louhos Tools](https://rasse2009.fi/louhos/tools/) provides small browser-based utilities.
+Source videos stay on your computer and are not uploaded to Louhos. These are development features; Arena has not yet been released.
 
-For enquiries, use **Contact us** in the Louhos Pro section on the [Louhos website](https://rasse2009.fi/louhos/#tilityypit).
+[About Arena →](https://rasse2009.fi/louhos/arena/)
 
-| | Platform | |
-| :---: | :--- | :--- |
-| <img src="assets/cue.svg" width="36" height="36" alt=""> | **Cue**<br>Build and run cue lists. Send MIDI, OSC and HTTP actions from cues or custom buttons. | [Open →](https://rasse2009.fi/louhos/cue/)<br>[Guide (FI)](https://rasse2009.fi/louhos/cue/documentation/) |
-| <img src="assets/interval.svg" width="36" height="36" alt=""> | **Interval**<br>Monitor vMix Program and Preview inputs and track time on air. Choose which inputs to track, rename them and organize them into tabs. | [Open →](https://rasse2009.fi/louhos/interval/)<br>[Guide (FI)](https://rasse2009.fi/louhos/interval/documentation/) |
+## Available tools
 
-### Coming soon
-
-|  | Description |
-| --- | --- |
-| **Plan** | Plan spaces, devices and their connections. |
-| **Vision** | Review drafts and visual material. |
-| **Comms** | Browser-based intercom with push-to-talk and shared rooms. In development; the voice service is not yet connected. |
-| **Show** | Control slides, media and displays. |
-
-
-### Louhos Account Types
-
-| Feature | Louhos Basic | Louhos Pro |
+| Tool | Purpose | Links |
 | --- | --- | --- |
-| **Price** | Free | Coming soon |
-| **Number of workspaces** | 1 | ∞ |
-| **Advanced collaboration and management features** | – | ✓ |
-| **Louhos Cloud** | – | ✓ |
-| **Storage per production** | Basic | More |
+| <img src="assets/cue.svg" width="32" height="32" alt=""> **Cue** | Build and run cue lists. Table import, MIDI, OSC and HTTP actions. | [Open](https://rasse2009.fi/louhos/cue/) · [Guide (FI)](https://rasse2009.fi/louhos/cue/documentation/) |
+| <img src="assets/interval.svg" width="32" height="32" alt=""> **Interval** | vMix Program/Preview inputs, camera time and supported video countdowns. | [Open](https://rasse2009.fi/louhos/interval/) · [Guide (FI)](https://rasse2009.fi/louhos/interval/documentation/) |
+| **Connect** | Bitfocus Companion integration for Louhos controls. Choose the package matching your Companion version. | [Downloads and setup](https://rasse2009.fi/louhos/companion/) |
+| **Tools** | Small browser-based utilities. | [Open](https://rasse2009.fi/louhos/tools/) |
 
-> [!WARNING]
-> Not all platforms support English yet. We’ll add comprehensive English support later.
+Access depends on your Louhos account permissions. Device connections may need additional setup; follow the tool-specific guide. Some interfaces and guides are currently Finnish-only.
+
+## Further development
+
+Stage, Equipment, Plan, Comms and Prompter are also in development, not listed as released tools here. Features and release order may change; Arena is next.
+
+## Feedback and security
+
+Use [Issues](https://github.com/Rassetin/louhos-public/issues) for bugs and suggestions. Include the tool, browser, reproduction steps and expected result. Remove production information from attachments.
+
+Do not post passwords, session tokens, private share links or customer files. Report security concerns privately using the [Louhos contact form](https://rasse2009.fi/louhos/#tilityypit); see [SECURITY.md](SECURITY.md).
+
+## Accounts
+
+Louhos Basic is free. Louhos Pro is in preparation. See the [website](https://rasse2009.fi/louhos/#tilityypit) for current account information.
+
+Maintained by [Rassetin](https://github.com/Rassetin). Updated **25 October 2026**.

@@ -1,0 +1,32 @@
+name: Bug report / Virheilmoitus
+description: Describe a reproducible problem / Kuvaa toistettava ongelma
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "No passwords, private links, tokens or customer files. Security: see SECURITY.md. / Ei salasanoja, yksityisiä linkkejä, tunnisteita tai asiakastiedostoja. Tietoturva: SECURITY.md."
+  - type: input
+    id: tool
+    attributes:
+      label: Tool / Työkalu
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / Toistovaiheet
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual result / Odotettu ja todellinen tulos
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and operating system / Selain ja käyttöjärjestelmä
+      description: "Connect: also include Companion and module versions. / Connect: myös Companionin ja moduulin versiot."
+    validations:
+      required: true

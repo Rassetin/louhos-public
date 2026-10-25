@@ -2,47 +2,52 @@
 
 [English](README.md) · **Suomi**
 
-Louhos tarjoaa selainpohjaiset työkalut cue-listoille ja kameranvaihtojen seurantaan.
+Selainpohjaisia työkaluja live-tuotantoon: cuelistat, kameranvaihtojen seuranta ja videoiden valmistelu areenanäytöille.
 
-[rasse2009.fi/louhos →](https://rasse2009.fi/louhos/)
+[Avaa Louhos →](https://rasse2009.fi/louhos/) · [Ilmoita virheestä](https://github.com/Rassetin/louhos-public/issues/new?template=bug_report.yml) · [Ehdota ominaisuutta](https://github.com/Rassetin/louhos-public/issues/new?template=feature_request.yml)
 
-Kehityspäivitys · 9.10.2026. Tämä repositorio sisältää julkisen esittelyn, ei sovelluksen lähdekoodia tai käyttäjätietoja.
+Tämä on Louhoksen julkinen esittely- ja palauterepo, ei sovellusten lähdekoodi. Se ei sisällä palvelinasetuksia tai käyttäjätietoja.
 
-### Viimeisimmät kehitysmuutokset
+## Seuraavaksi julkaistaan: Louhos Arena
 
-- **Cue: tuonti taulukosta.** Lataa taulukkopohja, täytä cueiden nimet, kuvaukset ja ryhmät ja tarkista tuonnin esikatselu ennen listalle lisäämistä.
-- **Interval: videon loppumislaskuri.** Asetuksista valittava vaihtoehto näyttää tuettujen videoinputtien vMixiltä saatavan jäljellä olevan ajan kameranvaihdon tavoiteajan sijaan. Toiminto tarvitsee saatavilla olevat videotiedot.
-- **Comms: intercom kehityksessä.** Push-to-talk, osallistujien äänimittarit, huoneiden hallinta, hyväksyntää vaativat kutsut, QR-linkit ja varahallinnoijat on toteutettu. Puhepalvelua ei ole vielä kytketty; oikea ääni ja palvelimen huonehallinta vaativat vielä kokonaisuuden testaamisen. Esikatselu ei aloita oikeaa puhelua.
+<img src="assets/arena.svg" width="64" height="64" alt="Louhos Arena">
 
-Nämä ovat kehitysmuutoksia. Saatavuus verkkoversiossa riippuu julkaisusta ja testauksesta.
+Rajaa ja jaa video areenan näytöille ja tarkista lopputulos 3D-visualisaattorissa. Arena on kehityksessä ja Louhoksen seuraava suunniteltu julkaisu. Tarkkaa julkaisupäivää ei ole vahvistettu.
 
-### Louhos Connect ja Tools
+- Näyttöjen asettelu ja omat näyttöprofiilit.
+- Alkuperäisen videon rajaus, kuvasuhdepresetit ja vientikoon valinta.
+- Paikallinen videovienti: tiedostomuoto, koodekki ja kuvataajuus. Koodekkituki riippuu selaimesta.
+- Kaarevat näyttönauhat ja erilliset näytöt, myös omilla videoillaan.
+- Oman areenan rakentaminen, näyttöjen XYZ-ohjaimet ja WASD-liikkuminen.
+- Koko näytön visualisaattori joko säätimillä tai ilman.
 
-- [Louhos Connect](https://rasse2009.fi/louhos/companion/) yhdistää Cuen samalla koneella toimivaan Bitfocus Companioniin. Lataa moduuli ja seuraa käyttöönotto-ohjetta. Moduuli ei ole vielä Companionin moduuliluettelossa.
-- [Louhos Tools](https://rasse2009.fi/louhos/tools/) sisältää pieniä selainpohjaisia työkaluja.
+Alkuperäiset videot pysyvät omalla koneella, eikä niitä lähetetä Louhoksen palvelimelle. Lista kuvaa kehitysversiota; Arenaa ei ole vielä julkaistu.
 
-Yhteydenotto onnistuu [Louhoksen etusivun](https://rasse2009.fi/louhos/#tilityypit) Louhos Pro -osion **Ota yhteyttä** -linkistä.
+[Tutustu Arenaan →](https://rasse2009.fi/louhos/arena/)
 
-| | Alusta | |
-| :---: | :--- | :--- |
-| <img src="assets/cue.svg" width="36" height="36" alt=""> | **Cue**<br>Rakenna ja aja cue-listoja. Lähetä MIDI-, OSC- ja HTTP-toimintoja cueista tai omista painikkeista. | [Avaa →](https://rasse2009.fi/louhos/cue/)<br>[Käyttöohjeet](https://rasse2009.fi/louhos/cue/documentation/) |
-| <img src="assets/interval.svg" width="36" height="36" alt=""> | **Interval**<br>Seuraa vMixin Program- ja Preview-inputteja sekä kameranvaihtojen kestoa. Valitse seurattavat inputit, nimeä ne ja jaa ne välilehdille. | [Avaa →](https://rasse2009.fi/louhos/interval/)<br>[Käyttöohjeet](https://rasse2009.fi/louhos/interval/documentation/) |
+## Käytettävissä olevat työkalut
 
-### Tulossa
-
-|  | Kuvaus |
-| --- | --- |
-| **Plan** | Tilojen, laitteiden ja niiden välisten yhteyksien suunnittelu. |
-| **Vision** | Vedosten ja visuaalisen materiaalin tarkastelu. |
-| **Comms** | Selainpohjainen intercom, jossa on push-to-talk ja yhteiset puhehuoneet. Kehityksessä; puhepalvelua ei ole vielä kytketty. |
-| **Show** | Diojen, median ja näyttöjen ohjaus. |
-
-### Louhos-tilityypit
-
-| Ominaisuus | Louhos Basic | Louhos Pro |
+| Työkalu | Käyttö | Linkit |
 | --- | --- | --- |
-| **Hinta** | Maksuton | Tulossa pian |
-| **Työtilojen määrä** | 1 | ∞ |
-| **Laajemmat yhteistyö- ja hallintaominaisuudet** | – | ✓ |
-| **Louhos Cloud** | – | ✓ |
-| **Tuotantokohtainen tallennustila** | Perus | Enemmän |
+| <img src="assets/cue.svg" width="32" height="32" alt=""> **Cue** | Cuelistojen rakentaminen ja ajo. Tuonti taulukosta sekä MIDI-, OSC- ja HTTP-toiminnot. | [Avaa](https://rasse2009.fi/louhos/cue/) · [Ohjeet](https://rasse2009.fi/louhos/cue/documentation/) |
+| <img src="assets/interval.svg" width="32" height="32" alt=""> **Interval** | vMixin Program- ja Preview-inputit, kamera-ajat sekä tuettujen videoinputtien loppumislaskuri. | [Avaa](https://rasse2009.fi/louhos/interval/) · [Ohjeet](https://rasse2009.fi/louhos/interval/documentation/) |
+| **Connect** | Bitfocus Companion -ohjaus Louhos-työkaluille. Valitse oman Companion-versiosi paketti. | [Lataukset ja käyttöönotto](https://rasse2009.fi/louhos/companion/) |
+| **Tools** | Pieniä selainpohjaisia työkaluja. | [Avaa](https://rasse2009.fi/louhos/tools/) |
+
+Käyttö riippuu Louhos-tilin oikeuksista. Laitteiden yhteydet voivat vaatia erillisen käyttöönoton; tarkista työkalukohtaiset ohjeet. Kaikkia näkymiä ja ohjeita ei ole vielä englanniksi.
+
+## Myöhemmin
+
+Myös Stage, Equipment, Plan, Comms ja Prompter ovat kehityksessä. Niitä ei ole tässä merkitty julkaistuiksi työkaluiksi. Ominaisuudet ja julkaisujärjestys voivat muuttua; Arena on seuraavana.
+
+## Palaute ja tietoturva
+
+Käytä [Issues-osiota](https://github.com/Rassetin/louhos-public/issues) virheisiin ja ehdotuksiin. Kerro työkalu, selain, toistovaiheet ja odotettu lopputulos. Poista tuotannon tiedot liitteistä.
+
+Älä julkaise salasanoja, istuntotunnisteita, yksityisiä jakolinkkejä tai asiakkaiden tiedostoja. Ilmoita tietoturva-asioista yksityisesti [Louhoksen yhteydenottolomakkeella](https://rasse2009.fi/louhos/#tilityypit); katso [SECURITY.md](SECURITY.md).
+
+## Tilit
+
+Louhos Basic on maksuton. Louhos Pro on valmisteilla. Ajantasaiset tilitiedot ovat [sivustolla](https://rasse2009.fi/louhos/#tilityypit).
+
+Ylläpito: [Rassetin](https://github.com/Rassetin). Päivitetty **25.10.2026**.
