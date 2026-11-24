@@ -4,10 +4,6 @@
 
 Selainpohjaisia työkaluja live-tuotantoon: cuelistat, kameranvaihtojen seuranta ja videoiden valmistelu areenanäytöille.
 
-[Avaa Louhos →](https://rasse2009.fi/louhos/) · [Ilmoita virheestä](https://github.com/Rassetin/louhos-public/issues/new?template=bug_report.yml) · [Ehdota ominaisuutta](https://github.com/Rassetin/louhos-public/issues/new?template=feature_request.yml)
-
-Tämä on Louhoksen julkinen esittely- ja palauterepo, ei sovellusten lähdekoodi. Se ei sisällä palvelinasetuksia tai käyttäjätietoja.
-
 ## Seuraavaksi julkaistaan: Louhos Arena
 
 <img src="assets/arena.svg" width="64" height="64" alt="Louhos Arena">
@@ -39,12 +35,6 @@ Käyttö riippuu Louhos-tilin oikeuksista. Laitteiden yhteydet voivat vaatia eri
 ## Myöhemmin
 
 Myös Stage, Equipment, Plan, Comms ja Prompter ovat kehityksessä. Niitä ei ole tässä merkitty julkaistuiksi työkaluiksi. Ominaisuudet ja julkaisujärjestys voivat muuttua; Arena on seuraavana.
-
-## Palaute ja tietoturva
-
-Käytä [Issues-osiota](https://github.com/Rassetin/louhos-public/issues) virheisiin ja ehdotuksiin. Kerro työkalu, selain, toistovaiheet ja odotettu lopputulos. Poista tuotannon tiedot liitteistä.
-
-Älä julkaise salasanoja, istuntotunnisteita, yksityisiä jakolinkkejä tai asiakkaiden tiedostoja. Ilmoita tietoturva-asioista yksityisesti [Louhoksen yhteydenottolomakkeella](https://rasse2009.fi/louhos/#tilityypit); katso [SECURITY.md](SECURITY.md).
 
 ## Tilit
 
