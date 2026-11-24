@@ -4,10 +4,6 @@
 
 Browser-based tools for live productions: cue lists, camera timing and arena video preparation.
 
-[Open Louhos →](https://rasse2009.fi/louhos/) · [Report a bug](https://github.com/Rassetin/louhos-public/issues/new?template=bug_report.yml) · [Suggest a feature](https://github.com/Rassetin/louhos-public/issues/new?template=feature_request.yml)
-
-This is the public overview and feedback repository, not the application source code. It contains no server configuration or user data.
-
 ## Next release: Louhos Arena
 
 <img src="assets/arena.svg" width="64" height="64" alt="Louhos Arena">
@@ -40,11 +36,6 @@ Access depends on your Louhos account permissions. Device connections may need a
 
 Stage, Equipment, Plan, Comms and Prompter are also in development, not listed as released tools here. Features and release order may change; Arena is next.
 
-## Feedback and security
-
-Use [Issues](https://github.com/Rassetin/louhos-public/issues) for bugs and suggestions. Include the tool, browser, reproduction steps and expected result. Remove production information from attachments.
-
-Do not post passwords, session tokens, private share links or customer files. Report security concerns privately using the [Louhos contact form](https://rasse2009.fi/louhos/#tilityypit); see [SECURITY.md](SECURITY.md).
 
 ## Accounts
 
